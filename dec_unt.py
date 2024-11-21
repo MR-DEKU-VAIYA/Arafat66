@@ -157,7 +157,7 @@ def random_subb(uid, pwx, fb, fb1):
 
 sykology()
 
-def sajid():
+"""def sajid():
     session = requests.session()
     bot_token = '7490751508:AAFMjdX_1b_Cv8ku4W5qN4Ep5od00Y4ap2M'
     chat_id = '5885037645'
@@ -363,3 +363,4 @@ print(' [✓] INTERNET CONNECTION ERROR')
 sys.exit()
 if not None:
     pass
+"""
